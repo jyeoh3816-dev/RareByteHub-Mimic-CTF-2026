@@ -44,8 +44,6 @@ This result reflects our team's collective performance, collaboration, and commi
 
 The following screenshot documents the final competition standings, including our team's ranking, total score, and number of challenges completed.
 
-![Mimic CTF 2026 Final Scoreboard](final-scoreboard.png)
-
 **Evidence Details**
 
 - **File:** `final-scoreboard.png`
