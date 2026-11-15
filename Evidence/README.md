@@ -25,7 +25,6 @@ The evidence is provided to document our team's competition performance and supp
 
 ## 📊 Final Competition Scoreboard
 
-![Mimic CTF 2026 Final Scoreboard](final-scoreboard.png)
 <img width="1672" height="941" alt="final-scoreboard" src="https://github.com/user-attachments/assets/36f32fdd-4b4a-4635-b724-469bbc86dfab" />
 
 
