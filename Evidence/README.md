@@ -25,11 +25,12 @@ The evidence is provided to document our team's competition performance and supp
 
 ## 📊 Final Competition Scoreboard
 
-The screenshot below shows the final competition leaderboard, including Team Zero Day Legend's ranking and total points.
-
 ![Mimic CTF 2026 Final Scoreboard](final-scoreboard.png)
 
-Our team achieved **3rd Place**, successfully completing all **19 challenges** and earning **4,050 points**.
+**Team Zero Day Legend**
+- Final Ranking: 3rd Place
+- Total Points: 4,050
+- Challenges Solved: 19/19
 
 ---
 
