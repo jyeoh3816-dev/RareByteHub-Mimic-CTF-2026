@@ -2,31 +2,51 @@
 
 ## Rare Byte Hub – Mimic CTF 2026
 
-This folder contains supporting evidence documenting **Team Zero Day Legend's participation and achievements** in Mimic CTF 2026.
+This folder contains supporting evidence of **Team Zero Day Legend's participation and achievements** in Mimic CTF 2026, organised by Rare Byte Hub.
 
-### 🏆 Competition Results
+The evidence is provided to document our team's competition performance and support my cybersecurity learning portfolio.
 
-| Category | Achievement |
+---
+
+## 🏆 Final Competition Results
+
+| Category | Result |
 |---|---|
+| Competition | Mimic CTF 2026 |
+| Organiser | Rare Byte Hub |
+| Date | 7–8 November 2026 |
 | Team | Zero Day Legend |
 | Final Ranking | 🥉 3rd Place |
 | Total Points | 4,050 |
 | Challenges Solved | 19/19 |
-| Competition Date | 7–8 November 2026 |
-
-### 📁 Supporting Evidence
-
-The following evidence will be added when available:
-
-- Final competition scoreboard
-- Team ranking and total points
-- Completed challenges dashboard
-- Official competition announcements or certificates
-
-### 🔗 Official Verification
-
-[View Mimic CTF 2026 Results on CTFtime](https://ctftime.org/event/3455)
+| Competition Status | Completed |
 
 ---
 
-**Note:** Competition results represent the achievements of Team Zero Day Legend. Screenshots are provided for documentation and portfolio purposes.
+## 📊 Final Competition Scoreboard
+
+The screenshot below shows the final competition leaderboard, including Team Zero Day Legend's ranking and total points.
+
+![Mimic CTF 2026 Final Scoreboard](final-scoreboard.png)
+
+Our team achieved **3rd Place**, successfully completing all **19 challenges** and earning **4,050 points**.
+
+---
+
+## 🔗 Official Competition Results
+
+The competition results can also be viewed through the official CTFtime event listing:
+
+[View Mimic CTF 2026 Results](https://ctftime.org/event/3455)
+
+---
+
+## 📝 Documentation Note
+
+This evidence is included for educational, professional development, and cybersecurity portfolio purposes.
+
+All competition results represent the collective achievements of Team Zero Day Legend.
+
+---
+
+**Prepared for professional portfolio documentation | 2026**
