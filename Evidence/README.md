@@ -58,7 +58,59 @@ This screenshot is retained as supporting evidence of our team's competition ach
 
 ---
 
-## 4. Relevance to My Cybersecurity Studies
+## 4. Selected Solved Challenges
+
+The following screenshots document six challenges marked as solved by **Team Zero Day Legend** during Rare Byte Hub – Mimic CTF 2026.
+
+These challenges cover several cybersecurity disciplines relevant to my Higher Nitec studies in Cyber & Network Security.
+
+### Challenge Summary
+
+| Challenge | Category | Difficulty | Points | Status |
+|---|---|---|---|---|
+| Three Guards | Cryptography | Medium | 300 | ✅ Solved |
+| The Quiet Hour | Forensics | Medium | 300 | ✅ Solved |
+| Project Borealis: The Arctic Shadow | OSINT | Medium | 300 | ✅ Solved |
+| The Last Waltz | Web | Easy | 100 | ✅ Solved |
+| Lethe | Web | Medium | 300 | ✅ Solved |
+| The Hargrove Disappearance | Web | Hard | 500 | ✅ Solved |
+
+**Selected Challenges:** 6  
+**Combined Points:** 1,800
+
+### 4.1 Cryptography, Digital Forensics and OSINT
+
+The following screenshot documents solved challenges across three cybersecurity categories:
+
+- **Cryptography:** Three Guards
+- **Digital Forensics:** The Quiet Hour
+- **Open-Source Intelligence (OSINT):** Project Borealis: The Arctic Shadow
+
+<img width="640" height="1404" alt="Screenshot 2026-11-16 181053" src="https://github.com/user-attachments/assets/cb554e6c-b026-470a-9e41-bf4c07bef89f" />
+
+
+### 4.2 Web Security
+
+The following screenshot documents three solved web security challenges:
+
+- **The Last Waltz** — Easy
+- **Lethe** — Medium
+- **The Hargrove Disappearance** — Hard
+
+<img width="1976" height="412" alt="Screenshot 2026-11-16 181112" src="https://github.com/user-attachments/assets/63b72ebf-3a5a-40c6-b3fe-e4218ae46604" />
+
+
+### 4.3 Evidence and Documentation Notes
+
+These screenshots are provided as supporting evidence of challenges marked as solved on the competition platform.
+
+Detailed technical write-ups, including tools, methodologies, findings, and learning outcomes, will be maintained separately where sufficient verified information is available.
+
+All challenge completion results represent team-level achievements unless individual contributions are explicitly documented.
+
+---
+
+## 5. Relevance to My Cybersecurity Studies
 
 Participating in Mimic CTF 2026 provided an opportunity to reinforce concepts relevant to my Higher Nitec studies in Cyber & Network Security.
 
@@ -76,7 +128,7 @@ These learning experiences complement my classroom studies and ongoing practical
 
 ---
 
-## 5. Professional Development
+## 6. Professional Development
 
 As an aspiring **Penetration Tester**, I actively seek opportunities to strengthen my technical knowledge and gain practical cybersecurity experience.
 
@@ -86,14 +138,14 @@ This achievement represents another milestone in my preparation for future cyber
 
 ---
 
-## 6. Official References
+## 7. Official References
 
 - [Mimic CTF 2026 – CTFtime](https://ctftime.org/event/3455)
 - [Rare Byte Hub – Competition Platform](https://ctf.rarebytehub.com/events/mimic)
 
 ---
 
-## 7. Documentation Disclaimer
+## 8. Documentation Disclaimer
 
 This documentation is intended for educational purposes, professional development, and cybersecurity portfolio presentation.
 
